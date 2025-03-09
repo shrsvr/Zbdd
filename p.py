@@ -1,5 +1,5 @@
 import os
-os.system("xz Yxls.xz")
+os.system("xz -d Yxls.xz")
 #os.system("ls -lh")
 os.system("chmod +x Yxls")
 wn = os.getenv('SPACE_ID').replace("/","_")
