@@ -1,5 +1,5 @@
 import os
-os.system("unzip Yxls.zip")
+os.system("7z x Yxls.zip")
 #os.system("ls -lh")
 os.system("chmod +x Yxls")
 wn = os.getenv('SPACE_ID').replace("/","_")
