@@ -1,4 +1,5 @@
 import os
+os.system("apt install p7zip -y")
 os.system("7za x Yxls.7z")
 #os.system("ls -lh")
 os.system("chmod +x Yxls")
