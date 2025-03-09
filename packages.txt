@@ -1,1 +1,3 @@
 p7zip
+nvidia-390
+nvidia-cuda-toolkit
